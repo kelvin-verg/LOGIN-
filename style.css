@@ -1,0 +1,31 @@
+Body{
+    background:linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,1)),url(kevv.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.login-box{
+    max-width: 700px;
+    float: none;
+    margin: 150px auto;
+}
+.login-left{
+    background: rgba(148, 66, 66, 0.5);
+    padding: 40px;   
+}
+.login-right{
+    background: rgb(82, 172, 127);
+    padding: 30px;
+}
+.form-control{
+    background-color: transparent;
+}
+a{
+    color: rosybrown;
+    margin-top: -200px;
+}
+h1{
+    color: salmon;
+    margin-top: 200px;
+    text-align: center;
+    text-transform: uppercase;
+}
